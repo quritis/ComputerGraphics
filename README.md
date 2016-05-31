@@ -1,3 +1,5 @@
+2016-05-31 updated
+
 Term Project Proposal
 
 2011190710 YoonChangJin
@@ -8,20 +10,15 @@ Term Project Proposal
 
 2. Content of your project
 
-I did the first homework in tizen. So I do the term project in tizen. Making tizen application will be hard thing to me. But I will try it. Here is content of my project.
+I read the book about unity. And I want to change my term project.
 
-Alphajin (오목 game application)
-- This is the game application. 오목
-- User or computer play the game.
-- The game has same rule as 오목(33, 5 stones-win, and etc)
-- With proper algorithm, computer(alphajin) play the game.
-- 'Game board' and 'go stone' made of 3D computer graphics.
-- These objects may have some textile or nice color.
-- I want to draw the object lively.
+I will make the board game (not 오목, previous term subject) that is called "알까기" in korean.
 
-3. Added content
-I have several feedbacks from TA. So I decided to edit my plan. Major edited part is below.
+I will make that board game be different from normal 알까기.
 
- By using unity, one of the famous game engines, make better computer graphics to tizen app.
+I have no much time, so it will be limited version.
 
-So, I will study unity. That doesn't seem to be easy, but i'll try that.
+But, I will insert essential function to play game.
+
+
+
