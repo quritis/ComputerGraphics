@@ -7,13 +7,19 @@ Yoon Chang-Jin
 
 1. Student ID and names of team member
 혼자서 팀을 꾸려서 텀프로젝트를 진행하였습니다.
+  
   ● 팀 인원: 1명
+
   ● 팀 멤버: 2011190710 윤창진
 
 2. Development Environment
+
   ● 	윈도우 10
+
   ● 	타이젠 OS
+
   ● 	유니티 Tools
+
   ● 	스크립트 C#
 
 3. About Application
